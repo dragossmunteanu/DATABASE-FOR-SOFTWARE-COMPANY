@@ -104,7 +104,7 @@ This project is a web application designed to manage real estate agents and empl
 - Add API endpoints for easier integration.  
 
 ## ✨ **Contributors**  
-This project is developed by [Dragos Munteanu]. Open for collaboration!  
+This project is developed by Dragos Munteanu. Open for collaboration!  
 
 ---  
 
