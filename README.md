@@ -112,5 +112,5 @@ Dacă întâmpini vreo problemă sau ai sugestii pentru îmbunătățirea aplica
 👨‍💻 **Developed with ❤️ by Dragos Munteanu**
 
 ---
+![image](https://github.com/user-attachments/assets/1b2c8c55-de3d-435d-8f81-89404062dc47)
 
-Acesta este un README detaliat, care include o descriere a aplicației, instrucțiuni de instalare și utilizare, plus informații utile pentru utilizatori și dezvoltatori! Dacă ai nevoie de modificări, te rog să mă anunți.
