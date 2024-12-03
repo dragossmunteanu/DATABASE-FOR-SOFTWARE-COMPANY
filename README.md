@@ -1,6 +1,3 @@
-Sigur! Iată un README complet pentru aplicația ta Flask care gestionează înregistrările angajaților și agenților imobiliari:
-
----
 
 # 📊 Flask CRUD Application for Employee & Real Estate Agents Management 🏠
 
