@@ -109,7 +109,7 @@ Dacă întâmpini vreo problemă sau ai sugestii pentru îmbunătățirea aplica
 
 ---
 
-👨‍💻 **Developed with ❤️ by [Your Name]**
+👨‍💻 **Developed with ❤️ by Dragos Munteanu**
 
 ---
 
