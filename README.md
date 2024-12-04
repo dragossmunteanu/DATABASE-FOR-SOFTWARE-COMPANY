@@ -1,6 +1,3 @@
-Here’s the translated and formatted README in English:  
-
----
 
 # Real Estate Management System 📋🏡  
 
